@@ -10,3 +10,7 @@ This research entails the development of a reproducible pipeline to evaluate how
 # References
 National Archives Catalog and API. (2002, September 16). Data.Gov; National Archives and Records Administration. http://catalog.data.gov/dataset/national-archives-catalog-and-api
 
+---
+
+**Ashley Blackwell** — Applied Data Scientist
+[LinkedIn](https://linkedin.com/in/ashleybrookeblackwell) · [Hugging Face](https://huggingface.co/ablackwellb) · [Tableau Public](https://public.tableau.com/app/profile/ablackwellb)
