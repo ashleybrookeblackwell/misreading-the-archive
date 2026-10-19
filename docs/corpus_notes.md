@@ -7,15 +7,35 @@ Microfilm Publication M1947, 2008.
 
 Relevant series:
 A1, Entry 497 — Records Relating to the Status of Monuments, Museums, and Archives, 1945–1950.
+Entry 497 includes correspondence, reports, questionnaires, inventory lists, and photographs documenting monuments, museums, and archives throughout Hesse, plus extensive Berlin State Museums material.[NARA](https://www.archives.gov/files/research/microfilm/m1947.pdf)
 
 Relevant rolls for pilot:
-- 56–57: Archives and Libraries Questionnaire
-- 60–62: monuments, libraries, repositories, museum questionnaires
+- Rolls 55–57: Archives and Libraries (including the Archives and Libraries Questionnaire and institutions across Hesse).
+- Rolls 58–59: Churches, Cities, and Villages Questionnaires.
+- Rolls 60–62: Correspondence, War-Damaged Monuments, Libraries, Repositories, and Museum Questionnaires.
+- Rolls 63–70: Berlin State Museums, Object Lists, Evacuation/Storage/Transfer Records, Inventories.
+- Roll 71: War-Damaged Art Applications and Monument Questionnaires.
+
+Rolls of Focus for pilot:
+- Rolls 56–57: Archives and Libraries (including the Archives and Libraries Questionnaire and institutions across Hesse).
+
+Entry of Focus:
+- Entry 497, Roll 56
+
+**Purpose for pilot:**
+Test for OCR preservation of:
+- Institution Names
+- German Place Names
+- Dates
+- People
+- Archive/Library Names
+- Relationships between Institution and Place
 
 ## Candidate 001
 
 **NARA Catalog ID:** 74095648  
 **Catalog URL:** https://catalog.archives.gov/id/74095648
+**[Link to Candidate 001]**(file)
 
 **Parent series:** Records Relating to the Status of Monuments, Museums, and Archives, 1945–1950  
 **Entry:** A1, Entry 497  
