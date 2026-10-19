@@ -24,6 +24,28 @@ Research in progress. Initial corpus selection and API integration are underway.
 
 ## Repository Structure
 
+misreading-the-archive/
+├── data/
+│   ├── ground_truth/
+│   ├── processed/
+│   └── raw/
+├── docs/
+│   ├── corpus_notes.md
+│   ├── research_log.md
+│   └── research_protocol.md
+├── notebooks/
+│   └── 01_baseline_ocr_evaluation.ipynb
+├── outputs/
+│   ├── figures/
+│   └── tables/
+├── src/
+│   ├── evaluate_ocr.py
+│   ├── extract_entities.py
+│   └── nara_client.py
+├── .env
+├── .env.example
+├── .gitignore
+└── README.md
 
 # References
 National Archives Catalog and API. (2002, September 16). Data.Gov; National Archives and Records Administration. http://catalog.data.gov/dataset/national-archives-catalog-and-api
