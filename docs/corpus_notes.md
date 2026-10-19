@@ -35,7 +35,8 @@ Test for OCR preservation of:
 
 **NARA Catalog ID:** 74095648  
 **Catalog URL:** https://catalog.archives.gov/id/74095648
-[Candidate 001](.data/raw/candidate_001.jpg)!
+
+![Candidate 001](candidate_001.jpg)
 
 **Parent series:** Records Relating to the Status of Monuments, Museums, and Archives, 1945–1950  
 **Entry:** A1, Entry 497  
