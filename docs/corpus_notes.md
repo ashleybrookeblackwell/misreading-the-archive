@@ -54,12 +54,12 @@ Test for OCR preservation of:
 **Number of digital images/pages:** One (1) <br/>
 
 **Potential entities:**
-- People: 
-- Places: Monuments, Museums, and Archives
-- Institutions: Archives and Libraries Questionnaire: Bad Wildungen City Archives & Archives and Libraries Questionnaire: Solms-Laubach Family (Counts of Solms- Laubach), Laubach
-- Objects/artworks: Records
-- Dates: 1945-1952
-- Inventory/accession numbers: 576 File Units(with a total of 39,332 digital objects) 
+- **People:** 
+- **Places:** Monuments, Museums, and Archives
+- **Institutions:** Bad Wildungen City Archives & Solms-Laubach Family (Counts of Solms- Laubach), Laubach
+- **Objects/Artworks:** Records
+- **Dates:** 1945-1952
+- **Inventory/accession numbers:** 576 File Units(with a total of 39,332 digital objects) 
 
 **Why this may be useful for the pilot:**  
 Document is one of the Relevant rolls for pilot (Rolls 56–57: Archives and Libraries Questionnaire).
