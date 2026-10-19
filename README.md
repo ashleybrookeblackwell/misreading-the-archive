@@ -28,37 +28,37 @@ misreading-the-archive/
 
 |-data/
 
-  ├── ground_truth/
+  ├─ ground_truth/
 
-  ├── processed/
+  ├─ processed/
 
-  └── raw/
+  └─ raw/
 
 |-docs/
 
-  ├── corpus_notes.md
+  ├─ corpus_notes.md
 
-  ├── research_log.md
+  ├─ research_log.md
 
-  └── research_protocol.md
+  └─ research_protocol.md
 
 |-notebooks/
 
-  └── 01_baseline_ocr_evaluation.ipynb
+  └─ 01_baseline_ocr_evaluation.ipynb
 
 |-outputs/
 
-  ├── figures/
+  ├─ figures/
 
-  └── tables/
+  └─ tables/
 
 |-src/
 
-  ├── evaluate_ocr.py
+  ├─ evaluate_ocr.py
 
-  ├── extract_entities.py
+  ├─ extract_entities.py
 
-  └── nara_client.py
+  └─ nara_client.py
 
 |-.env
 
