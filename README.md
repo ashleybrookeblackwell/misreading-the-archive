@@ -26,47 +26,47 @@ Research in progress. Initial corpus selection and API integration are underway.
 
 misreading-the-archive/
 
-├── data/
+|-data/
 
-│   ├── ground_truth/
+  ├── ground_truth/
 
-│   ├── processed/
+  ├── processed/
 
-│   └── raw/
+  └── raw/
 
-├── docs/
+|-docs/
 
-│   ├── corpus_notes.md
+  ├── corpus_notes.md
 
-│   ├── research_log.md
+  ├── research_log.md
 
-│   └── research_protocol.md
+  └── research_protocol.md
 
-├── notebooks/
+|-notebooks/
 
-│   └── 01_baseline_ocr_evaluation.ipynb
+  └── 01_baseline_ocr_evaluation.ipynb
 
-├── outputs/
+|-outputs/
 
-│   ├── figures/
+  ├── figures/
 
-│   └── tables/
+  └── tables/
 
-├── src/
+|-src/
 
-│   ├── evaluate_ocr.py
+  ├── evaluate_ocr.py
 
-│   ├── extract_entities.py
+  ├── extract_entities.py
 
-│   └── nara_client.py
+  └── nara_client.py
 
-├── .env
+|-.env
 
-├── .env.example
+|-.env.example
 
-├── .gitignore
+|-.gitignore
 
-└── README.md
+|- README.md
 
 # References
 National Archives Catalog and API. (2002, September 16). Data.Gov; National Archives and Records Administration. http://catalog.data.gov/dataset/national-archives-catalog-and-api
