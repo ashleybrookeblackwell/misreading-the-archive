@@ -44,14 +44,14 @@ Test for OCR preservation of:
 **Record Group:** RG 260  
 **Repository context:** Wiesbaden Central Collecting Point
 
-**Document/file title:** Target Sheet
-**Date:** N/A
-**Roll / file unit:** 56
+**Document/file title:** Target Sheet <br/>
+**Date:** N/A <br/>
+**Roll / file unit:** 56 <br/>
 
-**Language:** English
-**Document type:** Scanned Document
-**Typed / handwritten / mixed:** Typed 
-**Number of digital images/pages:** One (1)
+**Language:** English <br/>
+**Document type:** Scanned Document <br/>
+**Typed / handwritten / mixed:** Typed <br/>
+**Number of digital images/pages:** One (1) <br/>
 
 **Potential entities:**
 - People: 
