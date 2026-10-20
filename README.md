@@ -45,7 +45,6 @@ Research in progress. Initial corpus selection and API integration are underway.
 │   │   ├── evaluate_ocr.py
 │   │   ├── extract_entities.py
 │   │   └── nara_client.py
-├── .env
 ├── .env.example
 ├── .gitignore
 └── README.md
