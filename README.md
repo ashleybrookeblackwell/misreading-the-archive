@@ -30,7 +30,8 @@ Research in progress. Initial corpus selection and API integration are underway.
 │   ├── data/
 │   │   ├── ground_truth/
 │   │   ├── processed/
-│   │   └── raw/
+│   │   ├── raw/
+│   │   └── reference_material/
 │   ├── docs/
 │   │   ├── corpus_notes.md
 │   │   ├── research_log.md
