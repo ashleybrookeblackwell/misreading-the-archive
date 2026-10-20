@@ -2,5 +2,5 @@
 NARA API client.
 
 Status:
-    Scaffolding only. API key pending as of 2026-10-16.
+    Scaffolding only. API access approved 2026-10-17; key delivery pending.
 """
