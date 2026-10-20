@@ -33,10 +33,10 @@ Test for OCR preservation of:
 
 ## Candidate 001
 
-**NARA Catalog ID:** 74095648  
-**Catalog URL:** https://catalog.archives.gov/id/74095648
+**NARA Catalog ID:** 
+**Catalog URL:** 
 
-![Candidate 001](/data/raw/candidate_001.jpg)
+![Candidate 001]()
 
 **Parent series:** Records Relating to the Status of Monuments, Museums, and Archives, 1945–1950  
 **Entry:** A1, Entry 497  
@@ -44,25 +44,25 @@ Test for OCR preservation of:
 **Record Group:** RG 260  
 **Repository context:** Wiesbaden Central Collecting Point
 
-**Document/file title:** Target Sheet <br/>
-**Date:** N/A <br/>
+**Document/file title:**  <br/>
+**Date:**  <br/>
 **Roll / file unit:** 56 <br/>
 
 **Language:** English <br/>
 **Document type:** Scanned Document <br/>
-**Typed / handwritten / mixed:** Typed <br/>
-**Number of digital images/pages:** One (1) <br/>
+**Typed / handwritten / mixed:**  <br/>
+**Number of digital images/pages:**  <br/>
 
 **Potential entities:**
 - **People:** 
-- **Places:** Monuments, Museums, and Archives
-- **Institutions:** Bad Wildungen City Archives & Solms-Laubach Family (Counts of Solms- Laubach), Laubach
-- **Objects/Artworks:** Records
-- **Dates:** 1945-1952
-- **Inventory/accession numbers:** 576 File Units(with a total of 39,332 digital objects) 
+- **Places:** 
+- **Institutions:** 
+- **Objects/Artworks:** 
+- **Dates:** 
+- **Inventory/accession numbers:** 
 
 **Why this may be useful for the pilot:**  
-Document is one of the Relevant rolls for pilot (Rolls 56–57: Archives and Libraries Questionnaire).
 
-**OCR available in Catalog:** YES
-**Human transcription available:** YES
+
+**OCR available in Catalog:** 
+**Human transcription available:** 
