@@ -2,7 +2,8 @@
 
 This project develops a reproducible pipeline to evaluate how OCR errors in digitized historical records propagate into named-entity extraction and historical relationship reconstruction.
 
-The initial case study will use U.S. National Archives records concerning postwar cultural heritage in Germany.
+Initial corpus selection and the integration of [NARA (n.d.-a)](#nara-api) are underway via the `src/nara_client.py` script. The metadata schema 
+follows the profile listed on [Data.gov (NARA, n.d.-b)](#nara-datagov).
 
 ## Research Questions
 
@@ -51,7 +52,11 @@ Research in progress. Initial corpus selection and API integration are underway.
 ```
 
 # References
-National Archives Catalog and API. (2002, September 16). Data.Gov; National Archives and Records Administration. http://catalog.data.gov/dataset/national-archives-catalog-and-api
+
+* <span id="nara-api">National Archives and Records Administration. (n.d.-a). *API for the National Archives Catalog*. GitHub. https://github.com</span>
+
+* <span id="nara-datagov">National Archives and Records Administration. (n.d.-b). *National Archives Catalog and API*. Data.gov. https://data.gov</span>
+
 
 ---
 
