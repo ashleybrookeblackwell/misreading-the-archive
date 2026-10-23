@@ -1,4 +1,10 @@
 .env
+.venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+.DS_Store
+
+# Raw research source material stays local
+data/raw/*
+!data/raw/.gitkeep
