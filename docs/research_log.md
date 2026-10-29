@@ -23,3 +23,17 @@ documentary transcription and derived OCR evaluation reference were produced
 from the archival image under the frozen Reference Transcription Protocol.
 Both references were verified and locked before consultation of existing
 NARA OCR or contributed transcription.
+
+2026-10-29 — Candidate 001 digital object verified: NAID 210439765,
+object ID 210439782, Fold3 File #231985714, filename 0935.jpg, M1947
+Roll 55. Pilot corpus scope amended to include the Entry 497
+archives/libraries material spanning Rolls 55–57 before inspection of
+existing OCR or contributed transcription.
+
+2026-10-29 — Retrieved NARA auto-generated extracted text for Candidate 001
+(NAID 210439765, object ID 210439782). Raw OCR output saved unchanged as
+data/processed/candidate_001_nara_ocr.txt. Initial inspection identified
+character-level errors including "Mayor" → "Major", along with several
+errors affecting institution and place-name strings. The raw OCR artifact
+is preserved unchanged for reproducibility; any evaluation-aligned version
+will be derived separately.
