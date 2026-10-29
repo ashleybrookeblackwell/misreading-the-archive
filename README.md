@@ -21,7 +21,7 @@ follows the profile listed on [Data.gov (NARA, n.d.-b)](#nara-datagov).
 
 ## Status
 
-Current Focus: [Candidate001](https://github.com/ashleybrookeblackwell/misreading-the-archive/notebooks/01_baseline_ocr_evaluation.ipynb)
+Current Focus: [Candidate001](https://github.com/ashleybrookeblackwell/misreading-the-archive/blob/main/notebooks/01_baseline_ocr_evaluation.ipynb)
 
 ## Repository Structure
 
