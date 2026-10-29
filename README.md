@@ -38,6 +38,7 @@ Current Focus: [Candidate001](https://github.com/ashleybrookeblackwell/misreadin
 │   │   ├── research_log.md
 │   │   └── research_protocol.md
 │   ├── notebooks/
+│   │   ├── 00_nara_api_exploration.ipynb
 │   │   └── 01_baseline_ocr_evaluation.ipynb
 │   ├── outputs/
 │   │   ├── figures/
@@ -48,7 +49,8 @@ Current Focus: [Candidate001](https://github.com/ashleybrookeblackwell/misreadin
 │   │   └── nara_client.py
 ├── .env.example
 ├── .gitignore
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 # References
