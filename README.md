@@ -21,7 +21,7 @@ follows the profile listed on [Data.gov (NARA, n.d.-b)](#nara-datagov).
 
 ## Status
 
-Research in progress. Initial corpus selection and API integration are underway.
+Current Focus: [Candidate001](https://github.com/ashleybrookeblackwell/misreading-the-archive/notebooks/01_baseline_ocr_evaluation.ipynb)
 
 ## Repository Structure
 
