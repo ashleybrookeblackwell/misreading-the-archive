@@ -1,5 +1,6 @@
 requests
 python-dotenv
-Jupyter/IPython
-src/evaluate_ocr.py
-src/extract_entities.py
+jupyter
+ipykernel
+ipython
+

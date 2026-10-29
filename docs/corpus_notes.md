@@ -21,15 +21,16 @@ Original relevant Rolls for Pilot:
 - Rolls 63–70: Berlin State Museums, Object Lists, Evacuation/Storage/Transfer Records, Inventories.
 - Roll 71: War-Damaged Art Applications and Monument Questionnaires.
 
-Final Roll of Focus for Pilot:
-- Roll 56: Archives and Libraries (including the Archives and Libraries Questionnaire and institutions across Hesse).
-
 Relevant series:
 A1, Entry 497 — Records Relating to the Status of Monuments, Museums, and Archives, 1945–1950.
 Entry 497 includes correspondence, reports, questionnaires, inventory lists, and photographs documenting monuments, museums, and archives throughout Hesse, plus extensive Berlin State Museums material.[NARA](https://www.archives.gov/files/research/microfilm/m1947.pdf)
 
-Entry of Focus in Roll 56:
-- Entry 497
+Final Scope for Pilot:
+- Entry 497 archives/libraries material spanning Rolls 55–57.
+
+Entry of Focus:
+- A1, Entry 497 — Records Relating to the Status of Monuments,
+  Museums, and Archives, 1945–1950.
 
 
 ## Candidate 001
