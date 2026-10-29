@@ -211,6 +211,21 @@ Instead, the change will be recorded as a protocol amendment with:
 
 This protects the experiment from rules being changed in response to observed OCR performance.
 
+### Protocol Amendment — Candidate Corpus Scope
+
+**Date:** 2026-10-29
+
+During digital-object verification, Candidate 001 was confirmed as
+`0935.jpg` (object ID 210439782), located on M1947 Roll 55 rather than
+Roll 56.
+
+The initial pilot scope is therefore amended from Roll 56 alone to the
+archives/libraries subsection of Entry 497 spanning Rolls 55–57.
+
+This amendment reflects the archival organization documented in the M1947
+roll list and was made before consultation of Candidate 001 OCR or contributed
+transcription. It was not made in response to observed machine performance.
+
 
 ---
 

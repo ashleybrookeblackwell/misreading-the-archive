@@ -37,3 +37,11 @@ character-level errors including "Mayor" → "Major", along with several
 errors affecting institution and place-name strings. The raw OCR artifact
 is preserved unchanged for reproducibility; any evaluation-aligned version
 will be derived separately.
+
+2026-10-29 — Completed baseline OCR evaluation for Candidate 001.
+After protocol-defined scope alignment and layout normalization, NARA OCR
+produced a CER of 0.7847% (16 character edits / 2,039 reference characters)
+and a WER of 6.0703% (19 word edits). Results are treated as Candidate 001
+observations only. Subsequent analysis will examine whether OCR errors
+disproportionately affect historically meaningful entities and relationships.
+
