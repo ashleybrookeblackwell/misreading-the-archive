@@ -2,8 +2,8 @@
 
 This project develops a reproducible pipeline to evaluate how OCR errors in digitized historical records propagate into named-entity extraction and historical relationship reconstruction.
 
-Initial corpus selection and the integration of [NARA (n.d.-a)](#nara-api) are underway via the `src/nara_client.py` script. The metadata schema 
-follows the profile listed on [Data.gov (NARA, n.d.-b)](#nara-datagov).
+Initial corpus selection and the integration of [NARA](#nara-api) are underway via the `src/nara_client.py` script. The metadata schema 
+follows the profile listed on [Data.gov](#nara-datagov).
 
 ## Research Questions
 
